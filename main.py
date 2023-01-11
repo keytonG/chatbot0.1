@@ -1,5 +1,7 @@
 import random
 
+exit("this is a bug")
+
 #Simple chat program
 #Responds randomly with one of four preprogrammed responses
 
